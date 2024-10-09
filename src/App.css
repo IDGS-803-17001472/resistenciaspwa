@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+.image-placeholder {
+  width: 300px;
+  height: 4O0px;
+  margin: 20px auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #888;
+}
+
+.selectors {
+  margin: 20px 0;
+}
+
+.selectors div {
+  margin: 10px 0;
+}
+
+button {
+  margin: 20px 0;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+h3 {
+  margin: 20px 0;
+}
