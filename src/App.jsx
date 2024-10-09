@@ -34,7 +34,7 @@ function App() {
   }, [band1, band2, multiplier, tolerance]);
 
   return (
-    <div className="App">
+    <div className="App centrar">
       <h1>Calculadora de Resistencia PWA</h1>
       {/* Placeholder para la imagen de las equivalencias de colores */}
       <div className="image-placeholder">
